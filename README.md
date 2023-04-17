@@ -1,4 +1,6 @@
-# portfolio-HTML-e-CSS
+```
+
+# Portfólio
 
 
 # Olá, Bem vindo ao meu projeto de portfólio.
@@ -13,10 +15,12 @@
 
 * Flex-box
 
-*Figma
+* Figma
 
 ## Feito por:
 
 ### Leticia Lima
 
 ### Linkedin: https://www.linkedin.com/in/leticiabragalima
+
+```
