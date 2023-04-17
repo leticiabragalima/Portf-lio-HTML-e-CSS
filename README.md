@@ -1,5 +1,3 @@
-```
-
 # Portfólio
 
 
@@ -22,5 +20,3 @@
 ### Leticia Lima
 
 ### Linkedin: https://www.linkedin.com/in/leticiabragalima
-
-```
